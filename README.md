@@ -2,3 +2,4 @@
 - 👀 I’m interested in data science & machine learning
 - 🌱 I’m currently learning Python, SQL, JavaScript
 - 📫 How to reach me: email me at bridgetmbangert@gmail.com.
+- I'm currently working on a project with Girls Who Code TXST to build our very own website!
