@@ -1,4 +1,6 @@
-I'm a Big Data Engineer with experience in Python, SQL, R, Java, and Bash, specializing in data engineering, ETL pipelines, and scalable financial analytics. My expertise includes working with Apache Spark, Kafka, Hadoop, Databricks, and Microsoft Azure, where I've optimized ingestion frameworks, automated reporting processes, and contributed to machine learning pipelines.
+👋 Welcome to my GitHub!
+
+I'm a Big Data Engineer with experience in Python, SQL, R, Java, and C++, specializing in data engineering, ETL pipelines, and scalable financial analytics. My expertise includes working with Apache Spark, Kafka, Hadoop, Databricks, and Microsoft Azure, where I've optimized ingestion frameworks, automated reporting processes, and contributed to machine learning pipelines.
 
 🔹 What I Work On:
 
