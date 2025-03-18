@@ -11,11 +11,9 @@ I’m a Software Engineer with a background in big data, machine learning, and A
 
 🔹 Interests & Projects:
 
-🚀 AI-driven automation & decision-making systems
-
-📊 Machine learning applications in health & finance
-
-🌐 Web development & software engineering with a focus on AI integration
+    🚀 AI-driven automation & decision-making systems
+    📊 Machine learning applications in health & financ
+    🌐 Web development & software engineering with a focus on AI integration
 
 I’m always looking for opportunities to collaborate on software engineering, AI, and ML projects. Let’s connect!
 
